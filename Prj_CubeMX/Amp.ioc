@@ -1,0 +1,10 @@
+#MicroXplorer Configuration settings - do not modify
+#Wed Sep 17 21:43:35 EEST 2014
+File.Version=1
+KeepUserPlacement=false
+Mcu.Family=STM32F0
+Mcu.IPNb=0
+Mcu.Name=STM32F050F(4-6)Px
+Mcu.Package=TSSOP20
+Mcu.PinsNb=0
+Mcu.UserName=STM32F050F4Px
