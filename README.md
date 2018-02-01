@@ -1,2 +1,2 @@
 # 140916-Ammeter
-Amperveter-Voltmeter projrct for home adjustable power supply.
+Amperveter-Voltmeter project for home adjustable power supply.
